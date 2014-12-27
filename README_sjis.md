@@ -1,5 +1,4 @@
-
-# Git繝√Η繝ｼ繝医Μ繧｢繝ｫ
+# Gitチュートリアル
 
  - feature-A
  - feature-B
